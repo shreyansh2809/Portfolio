@@ -1,4 +1,2 @@
-License: 
-=======================================================================
-This template is free under the Creative Commons Attribution 3.0 License.
-https://creativecommons.org/licenses/by/3.0/
+This is my portfolio template..
+live at : http://ayushgupta.tk
