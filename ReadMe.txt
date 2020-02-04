@@ -1,2 +1,2 @@
 This is my portfolio template..
-live at : http://ayushgupta.tk
+live at : http://shreyanshgupta.tk
